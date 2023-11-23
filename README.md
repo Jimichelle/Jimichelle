@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##🔭 I’m currently working on Khroma Systems
+###🔭 I’m currently working on Khroma Systems
 
 <!--
 **Jimichelle/Jimichelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
