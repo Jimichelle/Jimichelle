@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![roadmap.sh](https://roadmap.sh/card/tall/6511bf953dc8db4c64bafaf4?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/6511bf953dc8db4c64bafaf4?variant=dark)](https://roadmap.sh)
