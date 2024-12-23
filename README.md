@@ -22,3 +22,4 @@ Un projet de blog générant des articles hebdomadaires en **Markdown**, aliment
 ---
 
 [![roadmap.sh](https://roadmap.sh/card/wide/6511bf953dc8db4c64bafaf4?variant=dark)](https://roadmap.sh)
+![Jimi GitHub stats](https://github-readme-stats.vercel.app/api?username=jimichelle&show_icons=true&theme=dark)
