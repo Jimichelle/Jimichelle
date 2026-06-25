@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://images.steamusercontent.com/ugc/18307238192494190383/2F533B4CCA6DCB5DE3ADCDE537F0516A6E24A9B2/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Banner" width="20%" />
-  <h1>Salut, je suis Jimi </h1>
+  <h1>Jimi </h1>
   <p><b>Développeur</b></p>
 </div>
 
